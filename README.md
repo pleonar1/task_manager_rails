@@ -958,7 +958,7 @@ Now, we should be able to navigate to our tasks index at [http://localhost:3000/
 
 Congrats! You have finished your first Rails app that can handle full CRUD functionality for a database resource!  We can now Create, Read, Update, and Delete tasks!
 
-## Checks for Understanding
+## Checks for Understanding - Answered on Gist
 
 1. Define CRUD.
 1. Define MVC.
